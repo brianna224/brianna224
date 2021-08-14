@@ -1,4 +1,4 @@
-- Hello I’m Brianna :)
+- Hello I’m Brianna and welcome to my github:bouquet:
 
 <!---
 brianna224/brianna224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
